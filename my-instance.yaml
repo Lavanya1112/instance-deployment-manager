@@ -1,5 +1,5 @@
 imports:
-  - path: templates/instance/instance.py
+  - path: instance.py
     name: instance.py
 
 resources:
