@@ -1,4 +1,3 @@
-
 imports:
   - path: templates/instance/instance.py
     name: instance.py
